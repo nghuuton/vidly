@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vidyl/static/css/main.b96d6e5b.chunk.css",
+    "main.js": "/vidyl/static/js/main.8073b6cd.chunk.js",
+    "main.js.map": "/vidyl/static/js/main.8073b6cd.chunk.js.map",
+    "runtime-main.js": "/vidyl/static/js/runtime-main.64b2931e.js",
+    "runtime-main.js.map": "/vidyl/static/js/runtime-main.64b2931e.js.map",
+    "static/css/2.d590e795.chunk.css": "/vidyl/static/css/2.d590e795.chunk.css",
+    "static/js/2.7edeb8f0.chunk.js": "/vidyl/static/js/2.7edeb8f0.chunk.js",
+    "static/js/2.7edeb8f0.chunk.js.map": "/vidyl/static/js/2.7edeb8f0.chunk.js.map",
+    "index.html": "/vidyl/index.html",
+    "precache-manifest.1f21ee68db3b3a7923aee537643219bc.js": "/vidyl/precache-manifest.1f21ee68db3b3a7923aee537643219bc.js",
+    "service-worker.js": "/vidyl/service-worker.js",
+    "static/css/2.d590e795.chunk.css.map": "/vidyl/static/css/2.d590e795.chunk.css.map",
+    "static/css/main.b96d6e5b.chunk.css.map": "/vidyl/static/css/main.b96d6e5b.chunk.css.map",
+    "static/js/2.7edeb8f0.chunk.js.LICENSE.txt": "/vidyl/static/js/2.7edeb8f0.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/vidyl/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64b2931e.js",
+    "static/css/2.d590e795.chunk.css",
+    "static/js/2.7edeb8f0.chunk.js",
+    "static/css/main.b96d6e5b.chunk.css",
+    "static/js/main.8073b6cd.chunk.js"
+  ]
+}
